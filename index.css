@@ -1,0 +1,24 @@
+body {
+	font-family: 'Sofia Sans Condensed', sans-serif;
+}
+
+.bg-nav {
+	background-color: #775a4a
+}
+
+.bg-whole {
+	background-color: #1e130e;
+}
+
+.bg-boxcolor {
+	background-color: #3b2720;
+}
+
+.bg-innerbox {
+	background-color: #503429;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
